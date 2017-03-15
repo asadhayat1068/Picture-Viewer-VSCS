@@ -1,0 +1,7 @@
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.Form1.resources
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.exe
+C:\Users\Asad Hayat\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.pdb
